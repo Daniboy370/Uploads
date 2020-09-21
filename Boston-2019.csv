@@ -14669,7 +14669,6 @@ Rank_Tot,Age,Gender,Country,Result_hr,Result_sec,Rank_Gender,Country_code
 26647,21,M,United States,6:32:44,23564,14669,USA
 26649,27,M,United States,6:47:56,24476,14670,USA
 26651,51,M,United States,6:56:44,25004,14671,USA
-26653,42,M,United States,7:14:12,26052,14672,USA
 36,28,F,Ethiopia,2:23:31,8611,1,ETH
 38,39,F,Kenya,2:24:13,8653,2,KEN
 48,27,F,United States,2:25:20,8720,3,USA
@@ -26650,5 +26649,4 @@ Rank_Tot,Age,Gender,Country,Result_hr,Result_sec,Rank_Gender,Country_code
 26641,50,F,United States,6:22:27,22947,11978,USA
 26648,32,F,United States,6:35:50,23750,11979,USA
 26650,55,F,United States,6:53:38,24818,11980,USA
-26652,46,F,United States,7:00:57,25257,11981,USA
-26656,51,F,United States,7:25:39,26739,11982,USA
+26652,46,F,United States,6:59:57,25197,11981,USA
